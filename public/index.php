@@ -17,5 +17,7 @@ define('APP_PATH', __DIR__ . '/../app/');
 // 定义配置文件路径
 define('CONF_PATH',__DIR__.'/../conf/');
 
+define('APP_DEBUG',true);
+
 // 加载框架引导文件
 require __DIR__ . '/../thinkphp/start.php';
