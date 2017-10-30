@@ -22,4 +22,8 @@ return [
     'view_replace_str'       => [
 
     ],
+    'template'               => [
+//       'layout_on'          => true,
+//        'layout_name'       => 'layout'
+    ],
 ];
